@@ -27,11 +27,11 @@ The overall project goal is to load the data set, configure, deploy, consume any
 # Steps and Project Execution Screenshot
 
 # Step 1: Authentication
-I am using udacity provided Microsoft Subscription so we dont need this step(You can create security principal if you are using your own Microsoft Account).
+I am using udacity provided Microsoft Subscription so we do not need this step (You can create security principal if you are using your own Microsoft Account).
 
 # Step 2: Automated ML Experiment
 
-After uploading Bank Marketing dataset, we configured the AutoML with Compute Cluster, trained the model and selected the model which have higher Accuracy.Since we are going to solve binary classification, we have selected target column as 'y'.
+After uploading Bank Marketing dataset, we configured the AutoML with Compute Cluster, trained the model and selected the model, which have higher Accuracy. Since we are going to solve binary classification, we have selected target column as 'y'.
 
 Figure 1: Bank Marketing Dataset
 
@@ -66,7 +66,7 @@ Figure 6: Experiment Completed
 
 # Step 3: Choosing & Deploying the Best Model
 
-In this step AutoML Experiment is completed, Now we have choosde best ML model among all the available model based on higher Accuracy.And after that we deployed that model so all the stake holder of the project can consume the ML Service.
+In this step AutoML Experiment is completed, Now we have choosed best ML model among all the available model based on higher Accuracy.And after that we deployed that model so all the stake holder of the project can consume the ML Service.
 
 Figure 7: Best Model Selected
 
@@ -83,7 +83,7 @@ Figure 9: Deploying Best Model
 
 # Step 4: Enable Application Insights & Logs
 
-After choosing & deploying we have enabled insights for deployed model to monitor the model in real time and check logs of deployed model behaviour.
+After choosing & deploying, we have enabled insights for deployed model to monitor the model in real time and check logs of deployed model behavior.
 
 Figure 10: Application Insight Enabled
 
@@ -117,7 +117,7 @@ Figure 14: Output
 
 # Step 7: Create, Publish and Consume a Pipeline
 
-This step is all about running a Jupyter Notebook to make a pipeline of AutoML which we have already done in previous steps so we can automate the model training & deploymnet of the model comparatavely in no time.
+This step is all about running a Jupyter Notebook to make a pipeline of AutoML which we have already done in previous steps so we can automate the model training & deployment of the model comparatively in no time.
 
 Figure 15: Running Pipeline
 
@@ -160,7 +160,7 @@ https://youtu.be/BLOfY19Xb6o
 
 # Future Enhancement of the Project
 
-We can run our custom model to get higher accuracy, In our case we have achived higher accuracy with Voting Ensemble model If dataset is large we can use optimized XGBoost algorithm after hyperparameter tuning to achieve higher accuracy is less time.
+We can run our custom model to get higher accuracy, In our case we have achieved higher accuracy with Voting Ensemble model If dataset is large we can use optimized XGBoost algorithm after hyperparameter tuning to achieve higher accuracy is less time.
 Also in any classification problem there might be class imbalance problem and if you observe the dataset closely you will find class imbalance problem.
 
 And we can use below method to overcome the Class Imbalance Problem
