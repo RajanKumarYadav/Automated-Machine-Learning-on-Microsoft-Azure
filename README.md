@@ -129,7 +129,8 @@ Figure 22: Create an AutoML experiment
 
 
 # Screen Recording
-Link
+
+https://youtu.be/BLOfY19Xb6o
 
 # Future Improvements
 
