@@ -127,3 +127,11 @@ Figure 22: Create an AutoML experiment
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/22.ScheduleRun.PNG)
 
 
+
+# Screen Recording
+Link
+
+# Future Improvements
+
+We can increase the Exit Criterion time from 1 hour to the default value of 3 hours to be able to find models of higher accuracy.
+We can enable Data drift tracking to ensure accuracy of the model.
