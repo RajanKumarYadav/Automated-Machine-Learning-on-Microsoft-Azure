@@ -42,87 +42,87 @@ For the compute cluster, I used the Standard_DS12_v2 for the Virtual Machine and
 
 I ran the experiment using classification, without enabling Deep Learning. The run took some time to test various models and found the best model for the task.
 
-Figure 2: Create an AutoML experiment
+Figure 2: AutoML Run With Registerd DataSet
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/2.AutoMLRunWithRegisterdDataSet.PNG)
 
-Figure 3: Create an AutoML experiment
+Figure 3: Experiment Run Using Classification
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/3.ExperimentRunUsingClassification1.PNG)
 
-Figure 4: Create an AutoML experiment
+Figure 4: Experiment Run Using Classification
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/4.ExperimentRunUsingClassification2.PNG)
 
-Figure 5: Create an AutoML experiment
+Figure 5: Experiment Completed
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/5.ExperimentCompleted.PNG)
 
-Figure 6: Create an AutoML experiment
+Figure 6: Experiment Completed
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/6.ExperimentCompleted1.PNG)
 
-Figure 7: Create an AutoML experiment
+Figure 7: Best Model Selected
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/7.BestModelSelected1.PNG)
 
-Figure 8: Create an AutoML experiment
+Figure 8: Deploy The Model Using ACI
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/8.DeployTheModelUsingACI.PNG)
 
-Figure 9: Create an AutoML experiment
+Figure 9: Deploying Best Model
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/9.DeployingBestModel.PNG)
 
-Figure 10: Create an AutoML experiment
+Figure 10: Application Insight Enabled
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/10.ApplicationInsightEnabled.PNG)
 
-Figure 11: Create an AutoML experiment
+Figure 11: Deployment Logs
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/11.DeploymentLogs.PNG)
 
-Figure 12: Create an AutoML experiment
+Figure 12: Swagger
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/12.Swagger.PNG)
 
-Figure 13: Create an AutoML experiment
+Figure 13: Swagger
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/13.Swagger.PNG)
 
-Figure 14: Create an AutoML experiment
+Figure 14: Output
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/14.Output.PNG)
 
-Figure 15: Create an AutoML experiment
+Figure 15: Running Pipeline
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/15.RunningPipeline.PNG)
 
-Figure 16: Create an AutoML experiment
+Figure 16: Running Pipeline In AzureML
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/16.RunningPipelineInAzureML.PNG)
 
-Figure 17: Create an AutoML experiment
+Figure 17: Pipeline Created
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/17.PipelineCreated.PNG)
 
-Figure 18: Create an AutoML experiment
+Figure 18: Pipeline Endpoint
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/18.PipelineEndpoint.PNG)
 
-Figure 19: Create an AutoML experiment
+Figure 19: Pipeline Run Overview
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/19.PipelineRunOverview.PNG)
 
-Figure 20: Create an AutoML experiment
+Figure 20: Pipeline End Point
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/20.PipelineEndPoint.PNG)
 
-Figure 21: Create an AutoML experiment
+Figure 21: Use Run Details Widget
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/21.UseRunDetailsWidget.PNG)
 
-Figure 22: Create an AutoML experiment
+Figure 22: Schedule Run
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/22.ScheduleRun.PNG)
 
