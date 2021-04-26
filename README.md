@@ -25,10 +25,11 @@ In this project, we are going to configure, deploy, consume a model which is tra
 
 # Steps and Project Execution Screenshot
 
-# Authentication
+# Step 1: Authentication
 I used the lab Udacity provided to us, so I skipped this step since I'm not authorized to create a security principal.
 
-# Step 1: Automated ML Experiment
+# Step 2: Automated ML Experiment
+
 In this step, we first upload our dataset using the dataset's URI:
 In this step, I created an AutoML experiment to run using the Bank Marketing Dataset which was loaded in the Azure Workspace, choosing 'y' as the target column.
 
@@ -60,11 +61,15 @@ Figure 5: Experiment Completed
 
 Figure 6: Experiment Completed
 
+
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/6.ExperimentCompleted1.PNG)
+
+# Step 3: Choosing & Deploying the Best Model
 
 Figure 7: Best Model Selected
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/7.BestModelSelected1.PNG)
+
 
 Figure 8: Deploy The Model Using ACI
 
@@ -74,6 +79,8 @@ Figure 9: Deploying Best Model
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/9.DeployingBestModel.PNG)
 
+# Step 4: Enable Application Insights & Logs
+
 Figure 10: Application Insight Enabled
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/10.ApplicationInsightEnabled.PNG)
@@ -82,17 +89,25 @@ Figure 11: Deployment Logs
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/11.DeploymentLogs.PNG)
 
+# Step 5: Swagger Documentation
+
 Figure 12: Swagger
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/12.Swagger.PNG)
 
 Figure 13: Swagger
 
+
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/13.Swagger.PNG)
+
+
+# Step 6: Consume Model Endpoints
 
 Figure 14: Output
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/14.Output.PNG)
+
+# Step 7: Create, Publish and Consume a Pipeline
 
 Figure 15: Running Pipeline
 
@@ -127,12 +142,13 @@ Figure 22: Schedule Run
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/22.ScheduleRun.PNG)
 
 
+# Step 8: Demo & Documentation
 
-# Screen Recording
+# Screencast of the Project (Demo)
 
 https://youtu.be/BLOfY19Xb6o
 
-# Future Improvements
+# Future Enhancement of the Project
 
 We can increase the Exit Criterion time from 1 hour to the default value of 3 hours to be able to find models of higher accuracy.
 We can enable Data drift tracking to ensure accuracy of the model.
