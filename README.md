@@ -170,3 +170,4 @@ And we can use below method to overcome the Class Imbalance Problem
 4) Try Penalized Models
 5) Use SMOTE (Synthetic Minority Oversampling Technique)
 
+
