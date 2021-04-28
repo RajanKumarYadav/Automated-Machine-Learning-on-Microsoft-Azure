@@ -111,7 +111,7 @@ Figure 13: Swagger
 
 Since i am solving binary classification problem i would love to demonstrate you how to get end results.  
 
-Figure 14: Output
+Figure 14: endpoint.py script runs against the API producing JSON output from the model.
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/14.Output.PNG)
 
