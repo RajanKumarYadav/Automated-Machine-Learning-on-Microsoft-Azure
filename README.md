@@ -87,10 +87,14 @@ After choosing & deploying, we have enabled insights for deployed model to monit
 
 Figure 10: Application Insight Enabled
 
+![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/24.EnableApplicationInsight.PNG)
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/10.ApplicationInsightEnabled.PNG)
+![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/27.ApplicationInsightTrue.PNG)
+
 
 Figure 11: Deployment Logs
-
+![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/25.EnableLogging.PNG)
+![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/26.EnableLogging.PNG)
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/11.DeploymentLogs.PNG)
 
 # Step 5: Swagger Documentation
@@ -105,6 +109,9 @@ Figure 13: Swagger
 
 
 ![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/13.Swagger.PNG)
+
+![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/28.TestingTheModelWithSwagger.PNG)
+![alt text](https://github.com/RajanKumarYadav/Automated-Machine-Learning-on-Microsoft-Azure/blob/main/Screenshoot/29.ResponseInSwagger.PNG)
 
 
 # Step 6: Consume Model Endpoints
